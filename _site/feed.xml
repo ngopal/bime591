@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomedical Visualization</title>
+    <description>In BIME 591, we explore visualizations used in biomedicine. The class covers theory and practice of data visualization, visualization design, guest speakers, and a group project.
+</description>
+    <link>http://ngopal.github.io/bime591/</link>
+    <atom:link href="http://ngopal.github.io/bime591/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Dec 2015 13:43:09 -0800</pubDate>
+    <lastBuildDate>Fri, 04 Dec 2015 13:43:09 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to Class!</title>
+        <description>&lt;p&gt;Welcome to class. Please check out the &lt;a href=&quot;/syllabus&quot;&gt;syllabus&lt;/a&gt; page.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Dec 2015 12:54:53 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2015/12/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2015/12/04/welcome-to-jekyll.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
