@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Instructors
-Instructor names here
+# Co-Instructors
+*  Nikhil Gopal
+*  Uba Backonija
+*  Graham Kim
 
-# Students
-Student names and bio here
+# Synopsis
