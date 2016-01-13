@@ -6,9 +6,50 @@
 </description>
     <link>http://ngopal.github.io/bime591/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jan 2016 15:01:08 -0800</pubDate>
-    <lastBuildDate>Mon, 04 Jan 2016 15:01:08 -0800</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 14:19:26 -0800</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 14:19:26 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Notes from the second class session!</title>
+        <description>&lt;p&gt;Greetings,&lt;/p&gt;
+
+&lt;p&gt;Here below are the links for the tools we viewed in class:
+*  Global burden of disease visualizations from IHME: &lt;a href=&quot;http://www.healthdata.org/gbd/data-visualizations&quot;&gt;http://www.healthdata.org/gbd/data-visualizations&lt;/a&gt;
+*  NYT visualizations (need to scroll down to get the data viz: &lt;a href=&quot;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&quot;&gt;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We spent the first half of class discussing the Shneiderman mantra, and recounting the visualization tools that implement it. During the latter half of class consisted of a lecture on visual encoding, followed by discourse. We will cover biases in data visualizations next week.&lt;/p&gt;
+
+&lt;p&gt;The slides from class may be found here.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Jan 2016 14:01:13 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/bime591/update/2016/01/13/second-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/bime591/update/2016/01/13/second-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Notes from first class session!</title>
+        <description>&lt;p&gt;Hello Students,&lt;/p&gt;
+
+&lt;p&gt;Here are web links to the material covered in class:
+*  data is beautiful: &lt;a href=&quot;https://www.reddit.com/r/dataisbeautiful&quot;&gt;https://www.reddit.com/r/dataisbeautiful&lt;/a&gt;
+*  data is ugly: &lt;a href=&quot;https://www.reddit.com/r/dataisugly&quot;&gt;https://www.reddit.com/r/dataisugly&lt;/a&gt;
+*  more examples of one of the ugly ones we showed in class: &lt;a href=&quot;https://en.wikipedia.org/wiki/TOP500&quot;&gt;https://en.wikipedia.org/wiki/TOP500&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for filling out the surveys. We’ve posted the homework on the class mailing list. To briefly summarize, we want you to read “The Eyes Have It” paper by Ben Shneiderman.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jan 2016 12:50:21 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/bime591/update/2016/01/06/first-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/bime591/update/2016/01/06/first-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Class!</title>
