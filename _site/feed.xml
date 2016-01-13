@@ -6,25 +6,31 @@
 </description>
     <link>http://ngopal.github.io/bime591/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 14:22:47 -0800</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 14:22:47 -0800</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 14:30:49 -0800</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 14:30:49 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Notes from the second class session!</title>
         <description>&lt;p&gt;Greetings,&lt;/p&gt;
 
-&lt;p&gt;Here below are the links for the tools we viewed in class:
-*  Global burden of disease visualizations from IHME: &lt;a href=&quot;http://www.healthdata.org/gbd/data-visualizations&quot;&gt;http://www.healthdata.org/gbd/data-visualizations&lt;/a&gt;
-*  NYT visualizations (need to scroll down to get the data viz: &lt;a href=&quot;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&quot;&gt;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here below are the links for the tools we viewed in class:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Global burden of disease visualizations from IHME: &lt;a href=&quot;http://www.healthdata.org/gbd/data-visualizations&quot;&gt;http://www.healthdata.org/gbd/data-visualizations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NYT visualizations (need to scroll down to get the data viz: &lt;a href=&quot;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&quot;&gt;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;We spent the first half of class discussing the Shneiderman mantra, and recounting the visualization tools that implement it. During the latter half of class consisted of a lecture on visual encoding, followed by discourse. We will cover biases in data visualizations next week.&lt;/p&gt;
 
-&lt;p&gt;The slides and papers from class may be found here:
-*  &lt;a href=&quot;/bime591/archive/Encoding_basics.pptx&quot;&gt;Slides&lt;/a&gt;
-*  &lt;a href=&quot;/bime591/archive/p110-mackinlay.pdf&quot;&gt;Mackinlay Paper&lt;/a&gt;
-*  &lt;a href=&quot;/bime591/archive/cleveland_mcgill.pdf&quot;&gt;Cleveland &amp;amp; McGill Paper&lt;/a&gt;
-*  &lt;a href=&quot;/bime591/archive/2010-MTurk-CHI.pdf&quot;&gt;Heer and Bostock Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The slides and papers from class may be found here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/Encoding_basics.pptx&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/p110-mackinlay.pdf&quot;&gt;Mackinlay Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/cleveland_mcgill.pdf&quot;&gt;Cleveland &amp;amp; McGill Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/2010-MTurk-CHI.pdf&quot;&gt;Heer and Bostock Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 14:01:13 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/bime591/update/2016/01/13/second-class.html</link>
@@ -36,13 +42,16 @@
       </item>
     
       <item>
-        <title>Notes from first class session!</title>
+        <title>Notes from the first class session!</title>
         <description>&lt;p&gt;Hello Students,&lt;/p&gt;
 
-&lt;p&gt;Here are web links to the material covered in class:
-*  data is beautiful: &lt;a href=&quot;https://www.reddit.com/r/dataisbeautiful&quot;&gt;https://www.reddit.com/r/dataisbeautiful&lt;/a&gt;
-*  data is ugly: &lt;a href=&quot;https://www.reddit.com/r/dataisugly&quot;&gt;https://www.reddit.com/r/dataisugly&lt;/a&gt;
-*  more examples of one of the ugly ones we showed in class: &lt;a href=&quot;https://en.wikipedia.org/wiki/TOP500&quot;&gt;https://en.wikipedia.org/wiki/TOP500&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are web links to the material covered in class:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data is beautiful: &lt;a href=&quot;https://www.reddit.com/r/dataisbeautiful&quot;&gt;https://www.reddit.com/r/dataisbeautiful&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Data is ugly: &lt;a href=&quot;https://www.reddit.com/r/dataisugly&quot;&gt;https://www.reddit.com/r/dataisugly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;More examples of one of the ugly ones we showed in class: &lt;a href=&quot;https://en.wikipedia.org/wiki/TOP500&quot;&gt;https://en.wikipedia.org/wiki/TOP500&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Thanks for filling out the surveys. We’ve posted the homework on the class mailing list. To briefly summarize, we want you to read “The Eyes Have It” paper by Ben Shneiderman.&lt;/p&gt;
 </description>
