@@ -6,8 +6,8 @@
 </description>
     <link>http://ngopal.github.io/bime591/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 14:19:26 -0800</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 14:19:26 -0800</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 14:22:47 -0800</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 14:22:47 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -20,7 +20,11 @@
 
 &lt;p&gt;We spent the first half of class discussing the Shneiderman mantra, and recounting the visualization tools that implement it. During the latter half of class consisted of a lecture on visual encoding, followed by discourse. We will cover biases in data visualizations next week.&lt;/p&gt;
 
-&lt;p&gt;The slides from class may be found here.&lt;/p&gt;
+&lt;p&gt;The slides and papers from class may be found here:
+*  &lt;a href=&quot;/bime591/archive/Encoding_basics.pptx&quot;&gt;Slides&lt;/a&gt;
+*  &lt;a href=&quot;/bime591/archive/p110-mackinlay.pdf&quot;&gt;Mackinlay Paper&lt;/a&gt;
+*  &lt;a href=&quot;/bime591/archive/cleveland_mcgill.pdf&quot;&gt;Cleveland &amp;amp; McGill Paper&lt;/a&gt;
+*  &lt;a href=&quot;/bime591/archive/2010-MTurk-CHI.pdf&quot;&gt;Heer and Bostock Paper&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 14:01:13 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/bime591/update/2016/01/13/second-class.html</link>
