@@ -10,9 +10,11 @@ Slides:
 
 Papers:
 
+* [Shneiderman Overview Paper](/bime591/archive/shneiderman.pdf)
 * [Mackinlay Paper](/bime591/archive/p110-mackinlay.pdf)
 * [Cleveland & McGill Paper](/bime591/archive/cleveland_mcgill.pdf)
 * [Heer and Bostock Paper](/bime591/archive/2010-MTurk-CHI.pdf)
+* [Shneiderman Healthcare Paper](/bime591/archive/Improving health and healthcare with interactive visualization methods.pdf)
 
 Links:
 
