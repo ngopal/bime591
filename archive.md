@@ -6,7 +6,8 @@ permalink: /archive/
 
 Slides:
 
-* [Slides](/bime591/archive/Encoding_basics.pptx)
+* [Biases in Data Visualizations](http://slides.com/nikhilgopal/visualizationbiases/live#/)
+* [Visual Encodings](/bime591/archive/Encoding_basics.pptx)
 
 Papers:
 
