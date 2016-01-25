@@ -6,6 +6,7 @@ permalink: /archive/
 
 Slides:
 
+* [ggplot2 Tutorial](/bime591/archive/ggplot_tutorial.html)
 * [Biases in Data Visualizations](http://slides.com/nikhilgopal/visualizationbiases/live#/)
 * [Visual Encodings](/bime591/archive/Encoding_basics.pptx)
 
