@@ -26,11 +26,11 @@ Here below is the current curriculum for the course. Although there are some pap
 
 6. Guest lecture: Hadley Wickham
 
-7. TBD
+7. Guest lecture: Robert Kosara
 
 8. Visualizing text
 
-9. Guest lecture: Robert Kosara (TBD)
+9. TBD
 
 10. Final thoughts
 
