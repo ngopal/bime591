@@ -6,10 +6,10 @@
 </description>
     <link>http://ngopal.github.io/bime591/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jan 2016 13:06:07 -0800</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 13:06:07 -0800</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2016 14:20:19 -0800</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2016 14:20:19 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
-    
+
       <item>
         <title>Notes from the third class session!</title>
         <description>&lt;p&gt;Hello,&lt;/p&gt;
@@ -20,12 +20,12 @@
         <pubDate>Wed, 20 Jan 2016 16:25:45 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/bime591/update/2016/01/20/third-class.html</link>
         <guid isPermaLink="true">http://ngopal.github.io/bime591/bime591/update/2016/01/20/third-class.html</guid>
-        
-        
+
+
         <category>update</category>
-        
+
       </item>
-    
+
       <item>
         <title>Notes from the second class session!</title>
         <description>&lt;p&gt;Greetings,&lt;/p&gt;
@@ -51,12 +51,12 @@
         <pubDate>Wed, 13 Jan 2016 14:01:13 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/bime591/update/2016/01/13/second-class.html</link>
         <guid isPermaLink="true">http://ngopal.github.io/bime591/bime591/update/2016/01/13/second-class.html</guid>
-        
-        
+
+
         <category>update</category>
-        
+
       </item>
-    
+
       <item>
         <title>Notes from the first class session!</title>
         <description>&lt;p&gt;Hello Students,&lt;/p&gt;
@@ -74,12 +74,12 @@
         <pubDate>Wed, 06 Jan 2016 12:50:21 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/bime591/update/2016/01/06/first-class.html</link>
         <guid isPermaLink="true">http://ngopal.github.io/bime591/bime591/update/2016/01/06/first-class.html</guid>
-        
-        
+
+
         <category>update</category>
-        
+
       </item>
-    
+
       <item>
         <title>Welcome to Class!</title>
         <description>&lt;p&gt;Welcome to class. Please check out the &lt;a href=&quot;/bime591/syllabus&quot;&gt;syllabus&lt;/a&gt; page.&lt;/p&gt;
@@ -91,11 +91,11 @@
         <pubDate>Mon, 04 Jan 2016 12:54:53 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/bime591/update/2016/01/04/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://ngopal.github.io/bime591/bime591/update/2016/01/04/welcome-to-jekyll.html</guid>
-        
-        
+
+
         <category>update</category>
-        
+
       </item>
-    
+
   </channel>
 </rss>
