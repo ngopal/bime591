@@ -6,9 +6,32 @@
 </description>
     <link>http://ngopal.github.io/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jan 2016 18:49:28 -0800</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 18:49:28 -0800</lastBuildDate>
+    <pubDate>Thu, 28 Jan 2016 13:37:29 -0800</pubDate>
+    <lastBuildDate>Thu, 28 Jan 2016 13:37:29 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Notes from the fourth class session!</title>
+        <description>&lt;p&gt;Today we learned how to create visualizations in R with GGPLOT2 by adding layers.&lt;br /&gt;
+We will continue with the GGPLOT2 crash course next week. &lt;a href=&quot;/bime591/archive/ggplot_tutorial.html&quot;&gt;Slides are available here&lt;/a&gt;, and in the archive.&lt;/p&gt;
+
+&lt;p&gt;We will also cover Tableau next week, so be sure to have &lt;a href=&quot;http://www.tableau.com/products/desktop&quot;&gt;Tableau installed&lt;/a&gt; if you want to follow along on your computer.&lt;/p&gt;
+
+&lt;p&gt;Here are links we talked about for RColorBrewer, which is a package that gives you color scale options for ordinal, categorical, and continuous data.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://colorbrewer2.org/&quot;&gt;http://colorbrewer2.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf&quot;&gt;https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 13:16:54 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/01/27/fourth-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/27/fourth-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Notes from the third class session!</title>
