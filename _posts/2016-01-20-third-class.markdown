@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes from the third class session!"
+title:  "Biases in Biomedical Visualizations"
 date:   2016-01-20 16:25:45 -0800
 categories: update
 ---

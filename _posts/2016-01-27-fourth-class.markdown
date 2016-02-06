@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes from the fourth class session!"
+title: "GGPLOT2 Tutorial: Session One"
 date: 2016-01-27 13:16:54 -0800
 categories: update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes from the second class session!"
+title:  "The Basics of Visual Encoding, and the Shneiderman Mantra"
 date:   2016-01-13 14:01:13 -0800
 categories: update
 ---

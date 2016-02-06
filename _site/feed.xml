@@ -6,12 +6,30 @@
 </description>
     <link>http://ngopal.github.io/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jan 2016 13:37:29 -0800</pubDate>
-    <lastBuildDate>Thu, 28 Jan 2016 13:37:29 -0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Fri, 05 Feb 2016 17:22:46 -0800</pubDate>
+    <lastBuildDate>Fri, 05 Feb 2016 17:22:46 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>Notes from the fourth class session!</title>
+        <title>GGPLOT2 Tutorial: Session Two, and Tableau</title>
+        <description>&lt;p&gt;Today we continued to learn more about GGPLOT2, and proceeded to get more practice with it.&lt;br /&gt;
+The slides are the same from last week. &lt;a href=&quot;/bime591/archive/ggplot_tutorial.html&quot;&gt;Slides are available here&lt;/a&gt;, and in the archive.&lt;/p&gt;
+
+&lt;p&gt;We also briefly covered Tableau, and replicated some of the visualizations we made using ggplot2 in Tableau. We also mentioned that Tableau provides student licenses.&lt;/p&gt;
+
+&lt;p&gt;Next week, we will have a Skype call with Hadley Wickham, who has graciously agreed to answer some of your ggplot2 design questions!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Feb 2016 12:16:54 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/02/03/fifth-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/02/03/fifth-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>GGPLOT2 Tutorial: Session One</title>
         <description>&lt;p&gt;Today we learned how to create visualizations in R with GGPLOT2 by adding layers.&lt;br /&gt;
 We will continue with the GGPLOT2 crash course next week. &lt;a href=&quot;/bime591/archive/ggplot_tutorial.html&quot;&gt;Slides are available here&lt;/a&gt;, and in the archive.&lt;/p&gt;
 
@@ -34,7 +52,7 @@ We will continue with the GGPLOT2 crash course next week. &lt;a href=&quot;/bime
       </item>
     
       <item>
-        <title>Notes from the third class session!</title>
+        <title>Biases in Biomedical Visualizations</title>
         <description>&lt;p&gt;Hello,&lt;/p&gt;
 
 &lt;p&gt;The slides from class today may be found &lt;a href=&quot;http://slides.com/nikhilgopal/visualizationbiases/live#/&quot;&gt;here&lt;/a&gt; and in the archive.&lt;/p&gt;
@@ -50,7 +68,7 @@ We will continue with the GGPLOT2 crash course next week. &lt;a href=&quot;/bime
       </item>
     
       <item>
-        <title>Notes from the second class session!</title>
+        <title>The Basics of Visual Encoding, and the Shneiderman Mantra</title>
         <description>&lt;p&gt;Greetings,&lt;/p&gt;
 
 &lt;p&gt;Here below are the links for the tools we viewed in class:&lt;/p&gt;
@@ -81,7 +99,7 @@ We will continue with the GGPLOT2 crash course next week. &lt;a href=&quot;/bime
       </item>
     
       <item>
-        <title>Notes from the first class session!</title>
+        <title>Data is Beautiful, Data is Ugly</title>
         <description>&lt;p&gt;Hello Students,&lt;/p&gt;
 
 &lt;p&gt;Here are web links to the material covered in class:&lt;/p&gt;

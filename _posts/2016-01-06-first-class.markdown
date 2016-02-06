@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes from the first class session!"
+title:  "Data is Beautiful, Data is Ugly"
 date:   2016-01-06 12:50:21 -0800
 categories: update
 ---
