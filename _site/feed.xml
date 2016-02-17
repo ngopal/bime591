@@ -6,9 +6,39 @@
 </description>
     <link>http://ngopal.github.io/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Feb 2016 13:19:45 -0800</pubDate>
-    <lastBuildDate>Wed, 10 Feb 2016 13:19:45 -0800</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 13:10:49 -0800</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 13:10:49 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Guest speaker: Robert Kosara</title>
+        <description>&lt;p&gt;We had Robert Kosara from Tableau come in today and give a presentation on visual storytelling.&lt;/p&gt;
+
+&lt;p&gt;Here are the links from his talk:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kosara.net/publications.html&quot;&gt;Dr. Kosara’s website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kosara.net/papers/2016/Haroz-TVCG-2016.pdf&quot;&gt;Connected scatter plot paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.org/details/graphicpresentat00brinrich&quot;&gt;Willard Brinton’s graphical methods book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://100yrsofbrinton.tumblr.com/&quot;&gt;​100 years of data viz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Isotype_(picture_language)&quot;&gt;ISOTYPE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kosara.net/papers/2015/Haroz_CHI_2015.pdf&quot;&gt;Dr. Kosara’s ISOTYPE paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nytimes.com/interactive/2013/04/16/science/disease-overlap-in-elderly.html&quot;&gt;​NYT older adult care facility resident viz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated​&quot;&gt;Measles viz from the Guardian&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fivethirtyeight.com/features/science-isnt-broken/#part2​&quot;&gt;​Hack your way to scientific glory from fivethrityeight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://explorableexplanations.com&quot;&gt;​Explorable explanations that includes a segregation viz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;​Next week we’ll be going over applying viz to health and healthcare.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2016 12:41:46 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/02/17/seventh-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/02/17/seventh-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Guest speaker: Hadley Wickham</title>
