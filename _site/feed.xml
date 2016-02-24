@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomedical Visualization</title>
+    <description>In BIME 591, we explore visualizations used in biomedicine. The class covers theory and practice of data visualization, visualization design, guest speakers, and a group project.
+</description>
+    <link>http://ngopal.github.io/bime591/</link>
+    <atom:link href="http://ngopal.github.io/bime591/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Feb 2016 13:34:59 -0800</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 13:34:59 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Working Group Day</title>
+        <description>&lt;p&gt;Today, we covered some of the changes in the field since the Shneiderman paper, and then broke out into working groups. We had three working groups, one for each of three areas of biomedical informatics (bioinformatics, clinical informatics, and public health informatics). In each working group, we take biomedical data, design visualizations as a group, and implement them (if we have time). As requested by the class, we will continue where we left off in the working groups next week.&lt;/p&gt;
+
+&lt;p&gt;Links from class today:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/Improving health and healthcare with interactive visualization methods.pdf&quot;&gt;Shneiderman Healthcare Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://worrydream.com/LadderOfAbstraction/&quot;&gt;Ladder of Abstraction&lt;/a&gt; - I mentioned this blog post to those in the bioinformatics group. It takes about an hour to peruse through, and is well worth it.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/sleephealthstudy.csv&quot;&gt;Clincal dataset&lt;/a&gt; - Polysomnography data from the Sleep Heart Health Study via &lt;a href=&quot;http://physionet.org/physiobank/database/shhpsgdb/&quot;&gt;Physionet&lt;/a&gt;. Includes waveform data for things like oxygen saturation, ECG, heart rate, eye movements, and airflow.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bioconductor.org/install&quot;&gt;Bioconductor&lt;/a&gt; - A list of available datasets are available &lt;a href=&quot;https://www.bioconductor.org/packages/3.3/data/experiment&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/sortablestats_dot_cdc_dot_gov.csv&quot;&gt;Public health dataset&lt;/a&gt; - Risk Factors and Health Indicators data from the CDC including death rates, risk factors, and preventable services.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/330.full.pdf&quot;&gt;Innovative information visualization of electronic health record data: a systematic review&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 24 Feb 2016 13:17:01 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/02/24/eighth-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/02/24/eighth-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Guest speaker: Robert Kosara</title>
+        <description>&lt;p&gt;We had Robert Kosara from Tableau come in today and give a presentation on visual storytelling.&lt;/p&gt;
+
+&lt;p&gt;Here are the links from his talk:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kosara.net/publications.html&quot;&gt;Dr. Kosara’s website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kosara.net/papers/2016/Haroz-TVCG-2016.pdf&quot;&gt;Connected scatter plot paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.org/details/graphicpresentat00brinrich&quot;&gt;Willard Brinton’s graphical methods book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://100yrsofbrinton.tumblr.com/&quot;&gt;​100 years of data viz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Isotype_(picture_language)&quot;&gt;ISOTYPE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kosara.net/papers/2015/Haroz_CHI_2015.pdf&quot;&gt;Dr. Kosara’s ISOTYPE paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nytimes.com/interactive/2013/04/16/science/disease-overlap-in-elderly.html&quot;&gt;​NYT older adult care facility resident viz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated​&quot;&gt;Measles viz from the Guardian&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fivethirtyeight.com/features/science-isnt-broken/#part2​&quot;&gt;​Hack your way to scientific glory from fivethrityeight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://explorableexplanations.com&quot;&gt;​Explorable explanations that includes a segregation viz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;​Next week we’ll be going over applying viz to health and healthcare.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2016 12:41:46 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/02/17/seventh-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/02/17/seventh-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Guest speaker: Hadley Wickham</title>
+        <description>&lt;p&gt;Today we had Hadley Wickham, the creator of GGPLOT2, Skype in and talk to us about his work, his thoughts on data visualization, and answer questions. Hadley brought up several resources during class. Feel free to check them out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://julialang.org&quot;&gt;Julia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/tidy-data.pdf&quot;&gt;Tidy data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html&quot;&gt;%&amp;gt;% operator and “magrittr” package&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ggplot2-exts.github.io/&quot;&gt;GGPLOT2 extensions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ggplot2-exts.github.io/ggrepel.html&quot;&gt;ggrepel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/17_Wickham.pdf&quot;&gt;Practice safe stats&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hadley/adv-r&quot;&gt;Dr. Wickham’s github-hosted book on R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hadley&quot;&gt;Dr. Wickham’s github page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Up next: A guest lecture by &lt;a href=&quot;https://research.tableau.com/user/robert-kosara&quot;&gt;Dr. Robert Kosara&lt;/a&gt; from Tableau about visual storytelling!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 13:13:00 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/02/10/sixth-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/02/10/sixth-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>GGPLOT2 Tutorial: Session Two, and Tableau</title>
+        <description>&lt;p&gt;Today we continued to learn more about GGPLOT2, and proceeded to get more practice with it.&lt;br /&gt;
+The slides are the same from last week. &lt;a href=&quot;/bime591/archive/ggplot_tutorial.html&quot;&gt;Slides are available here&lt;/a&gt;, and in the archive.&lt;/p&gt;
+
+&lt;p&gt;We also briefly covered Tableau, and replicated some of the visualizations we made using ggplot2 in Tableau. We also mentioned that Tableau provides student licenses.&lt;/p&gt;
+
+&lt;p&gt;Next week, we will have a Skype call with Hadley Wickham, who has graciously agreed to answer some of your ggplot2 design questions!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Feb 2016 12:16:54 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/02/03/fifth-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/02/03/fifth-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>GGPLOT2 Tutorial: Session One</title>
+        <description>&lt;p&gt;Today we learned how to create visualizations in R with GGPLOT2 by adding layers.&lt;br /&gt;
+We will continue with the GGPLOT2 crash course next week. &lt;a href=&quot;/bime591/archive/ggplot_tutorial.html&quot;&gt;Slides are available here&lt;/a&gt;, and in the archive.&lt;/p&gt;
+
+&lt;p&gt;We will also cover Tableau next week, so be sure to have &lt;a href=&quot;http://www.tableau.com/products/desktop&quot;&gt;Tableau installed&lt;/a&gt; if you want to follow along on your computer.&lt;/p&gt;
+
+&lt;p&gt;Here are links we talked about for RColorBrewer, which is a package that gives you color scale options for ordinal, categorical, and continuous data.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://colorbrewer2.org/&quot;&gt;http://colorbrewer2.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf&quot;&gt;https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 13:16:54 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/01/27/fourth-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/27/fourth-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Biases in Biomedical Visualizations</title>
+        <description>&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;The slides from class today may be found &lt;a href=&quot;http://slides.com/nikhilgopal/visualizationbiases/live#/&quot;&gt;here&lt;/a&gt; and in the archive.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Jan 2016 16:25:45 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/01/20/third-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/20/third-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>The Basics of Visual Encoding, and the Shneiderman Mantra</title>
+        <description>&lt;p&gt;Greetings,&lt;/p&gt;
+
+&lt;p&gt;Here below are the links for the tools we viewed in class:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Global burden of disease visualizations from IHME: &lt;a href=&quot;http://www.healthdata.org/gbd/data-visualizations&quot;&gt;http://www.healthdata.org/gbd/data-visualizations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NYT visualizations (need to scroll down to get the data viz: &lt;a href=&quot;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&quot;&gt;http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We spent the first half of class discussing the Shneiderman mantra, and recounting the visualization tools that implement it. During the latter half of class consisted of a lecture on visual encoding, followed by discourse. We will cover biases in data visualizations next week.&lt;/p&gt;
+
+&lt;p&gt;The slides and papers from class may be found here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/Encoding_basics.pptx&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/p110-mackinlay.pdf&quot;&gt;Mackinlay Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/cleveland_mcgill.pdf&quot;&gt;Cleveland &amp;amp; McGill Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/2010-MTurk-CHI.pdf&quot;&gt;Heer and Bostock Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 13 Jan 2016 14:01:13 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/01/13/second-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/13/second-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Data is Beautiful, Data is Ugly</title>
+        <description>&lt;p&gt;Hello Students,&lt;/p&gt;
+
+&lt;p&gt;Here are web links to the material covered in class:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data is beautiful: &lt;a href=&quot;https://www.reddit.com/r/dataisbeautiful&quot;&gt;https://www.reddit.com/r/dataisbeautiful&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Data is ugly: &lt;a href=&quot;https://www.reddit.com/r/dataisugly&quot;&gt;https://www.reddit.com/r/dataisugly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;More examples of one of the ugly ones we showed in class: &lt;a href=&quot;https://en.wikipedia.org/wiki/TOP500&quot;&gt;https://en.wikipedia.org/wiki/TOP500&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks for filling out the surveys. We’ve posted the homework on the class mailing list. To briefly summarize, we want you to read “The Eyes Have It” paper by Ben Shneiderman.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jan 2016 12:50:21 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/01/06/first-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/06/first-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Class!</title>
+        <description>&lt;p&gt;Welcome to class. Please check out the &lt;a href=&quot;/bime591/syllabus&quot;&gt;syllabus&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;On the first day of class, we will get to know each other and chat a bit about our research interests. We instructors will survey you students to understand your level of experience with visualization and coding. We will also note your desired outcomes from the class. Although we have a syllabus planned and ready to go, we intend to adjust the course content based on your feedback and interests. As a reminder, we meet every Wednesday from 10:00AM-10:50AM at HST360A. This room is a little difficult to find in the health sciences building, so please allow yourself a few minutes to get lost :-D&lt;/p&gt;
+
+&lt;p&gt;See you there!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 12:54:53 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/01/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/04/welcome-to-jekyll.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

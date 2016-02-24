@@ -19,6 +19,7 @@ Papers:
 * [Shneiderman Healthcare Paper](/bime591/archive/Improving health and healthcare with interactive visualization methods.pdf)
 * [Wickham Tidy data](/bime591/archive/tidy-data.pdf)
 * [Wickham Practice safe stats](/bime591/archive/17_Wickham.pdf)
+* [Innovative information visualization of electronic health record data: a systematic review](/bime591/archive/330.full.pdf)
 
 Links:
 
@@ -42,3 +43,10 @@ Links:
 * [Measles viz from the Guardian](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated​)
 * [​Hack your way to scientific glory from fivethrityeight](http://fivethirtyeight.com/features/science-isnt-broken/#part2​)
 * [​Explorable explanations that includes a segregation viz](http://explorableexplanations.com)
+* [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
+
+Datasets:
+
+* [Clincal dataset](/bime591/archive/sleephealthstudy.csv) - Polysomnography data from the Sleep Heart Health Study via [Physionet](http://physionet.org/physiobank/database/shhpsgdb/). Includes waveform data for things like oxygen saturation, ECG, heart rate, eye movements, and airflow.
+* [Bioconductor](https://www.bioconductor.org/install) - A list of available datasets are available [here](https://www.bioconductor.org/packages/3.3/data/experiment)
+* [Public health dataset](/bime591/archive/sortablestats_dot_cdc_dot_gov.csv) - Risk Factors and Health Indicators data from the CDC including death rates, risk factors, and preventable services.
