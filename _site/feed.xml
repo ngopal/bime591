@@ -6,9 +6,9 @@
 </description>
     <link>http://ngopal.github.io/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Feb 2016 13:34:59 -0800</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 13:34:59 -0800</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Thu, 25 Feb 2016 11:50:54 -0800</pubDate>
+    <lastBuildDate>Thu, 25 Feb 2016 11:50:54 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Working Group Day</title>
@@ -19,12 +19,11 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/bime591/archive/Improving health and healthcare with interactive visualization methods.pdf&quot;&gt;Shneiderman Healthcare Paper&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://worrydream.com/LadderOfAbstraction/&quot;&gt;Ladder of Abstraction&lt;/a&gt; - I mentioned this blog post to those in the bioinformatics group. It takes about an hour to peruse through, and is well worth it.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/bime591/archive/sleephealthstudy.csv&quot;&gt;Clincal dataset&lt;/a&gt; - Polysomnography data from the Sleep Heart Health Study via &lt;a href=&quot;http://physionet.org/physiobank/database/shhpsgdb/&quot;&gt;Physionet&lt;/a&gt;. Includes waveform data for things like oxygen saturation, ECG, heart rate, eye movements, and airflow.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bime591/archive/SleepHeartHealthStudy.csv&quot;&gt;Clincal dataset&lt;/a&gt; - Polysomnography data from the Sleep Heart Health Study via &lt;a href=&quot;http://physionet.org/physiobank/database/shhpsgdb/&quot;&gt;Physionet&lt;/a&gt;. Includes waveform data for things like oxygen saturation, ECG, heart rate, eye movements, and airflow.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.bioconductor.org/install&quot;&gt;Bioconductor&lt;/a&gt; - A list of available datasets are available &lt;a href=&quot;https://www.bioconductor.org/packages/3.3/data/experiment&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/bime591/archive/sortablestats_dot_cdc_dot_gov.csv&quot;&gt;Public health dataset&lt;/a&gt; - Risk Factors and Health Indicators data from the CDC including death rates, risk factors, and preventable services.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/bime591/archive/330.full.pdf&quot;&gt;Innovative information visualization of electronic health record data: a systematic review&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Wed, 24 Feb 2016 13:17:01 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/update/2016/02/24/eighth-class.html</link>
