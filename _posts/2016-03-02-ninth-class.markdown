@@ -11,3 +11,6 @@ We updated the CSV file from class last week (the public health dataset), as the
 
 See you next week!
 
+Addendum: Uba forwarded me a link to the JAMIA special issue on visualization, which can be found [here](http://jamia.oxfordjournals.org/content/22/2).
+
+

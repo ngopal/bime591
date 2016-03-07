@@ -44,6 +44,7 @@ Links:
 * [​Hack your way to scientific glory from fivethrityeight](http://fivethirtyeight.com/features/science-isnt-broken/#part2​)
 * [​Explorable explanations that includes a segregation viz](http://explorableexplanations.com)
 * [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
+* [JAMIA Special Issue on Visualization](http://jamia.oxfordjournals.org/content/22/2)
 
 Datasets:
 
