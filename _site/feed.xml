@@ -6,9 +6,31 @@
 </description>
     <link>http://ngopal.github.io/bime591/</link>
     <atom:link href="http://ngopal.github.io/bime591/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2016 17:53:50 -0800</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2016 17:53:50 -0800</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Wed, 09 Mar 2016 18:51:24 -0800</pubDate>
+    <lastBuildDate>Wed, 09 Mar 2016 18:51:24 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Last day of class</title>
+        <description>&lt;p&gt;Today was the last day of class :(&lt;br /&gt;
+We reviewed the material we learned throughout the quarter, which included the visual information-seeking mantra, visual encoding, biases, and the visualization tools.
+The &lt;a href=&quot;/bime591/archive/BioViz_Review.pptx&quot;&gt;review slides&lt;/a&gt; are in the class archive.&lt;/p&gt;
+
+&lt;p&gt;But wait, there’s more!
+Since many of you were interested in D3, we gave you a crash course on what D3 is, and how it works.&lt;/p&gt;
+
+&lt;p&gt;Hopefully this has been an informative course, and thank you all for being a part of it!&lt;/p&gt;
+
+&lt;p&gt;- Graham, Nikhil, and Uba.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Mar 2016 18:37:00 -0800</pubDate>
+        <link>http://ngopal.github.io/bime591/update/2016/03/09/tenth-class.html</link>
+        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/03/09/tenth-class.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Another Working Group Day</title>
@@ -215,23 +237,6 @@ We will continue with the GGPLOT2 crash course next week. &lt;a href=&quot;/bime
         <pubDate>Wed, 06 Jan 2016 12:50:21 -0800</pubDate>
         <link>http://ngopal.github.io/bime591/update/2016/01/06/first-class.html</link>
         <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/06/first-class.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Class!</title>
-        <description>&lt;p&gt;Welcome to class. Please check out the &lt;a href=&quot;/bime591/syllabus&quot;&gt;syllabus&lt;/a&gt; page.&lt;/p&gt;
-
-&lt;p&gt;On the first day of class, we will get to know each other and chat a bit about our research interests. We instructors will survey you students to understand your level of experience with visualization and coding. We will also note your desired outcomes from the class. Although we have a syllabus planned and ready to go, we intend to adjust the course content based on your feedback and interests. As a reminder, we meet every Wednesday from 10:00AM-10:50AM at HST360A. This room is a little difficult to find in the health sciences building, so please allow yourself a few minutes to get lost :-D&lt;/p&gt;
-
-&lt;p&gt;See you there!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Jan 2016 12:54:53 -0800</pubDate>
-        <link>http://ngopal.github.io/bime591/update/2016/01/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://ngopal.github.io/bime591/update/2016/01/04/welcome-to-jekyll.html</guid>
         
         
         <category>update</category>
